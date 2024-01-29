@@ -1,0 +1,28 @@
+#LogoStyle {
+    color: #1d303b;
+    font-size: 4rem;
+    text-align: center;
+}
+.Bildef {
+    background-color: #94bbd1;
+    border: 10px solid #3b5361;
+    text-align: center;
+    width: 600px;
+    margin-inline: auto;
+}
+.Obsession {
+    color: #415561;
+    font-size: 3rem;
+}
+.Pic {
+    display: block;
+    margin-inline: auto;
+    border: 5px solid #3b5361;
+    width: 350px;
+    text-align: center;
+}
+.Besk {
+    text-align: center;
+    font-size: 2rem;
+    color: #3b5361;
+}
