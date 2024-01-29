@@ -1,28 +1,28 @@
-#LogoStyle {
-    color: #1d303b;
-    font-size: 4rem;
+header {
+    text-align: left;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #B5FFB3;
     text-align: center;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.Bildef {
-    background-color: #94bbd1;
-    border: 10px solid #3b5361;
-    text-align: center;
-    width: 600px;
-    margin-inline: auto;
-}
-.Obsession {
-    color: #415561;
-    font-size: 3rem;
-}
-.Pic {
+.knapp{
+    background-color: #88BF86;
+    border: 2pt solid #2D402D;
+    color: #2D402D;
+    transition: 300ms;
+    text-decoration: none;
+    border-radius: 1rem;
     display: block;
-    margin-inline: auto;
-    border: 5px solid #3b5361;
-    width: 350px;
+    width: 100pt;
+    margin: auto;
     text-align: center;
 }
-.Besk {
-    text-align: center;
-    font-size: 2rem;
-    color: #3b5361;
+.knapp:hover{
+    background-color: #5B8059;
+    padding-left: 10pt;
+    padding-right: 10pt;
 }
